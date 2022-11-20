@@ -1,0 +1,15 @@
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\bin\Debug\net6.0\CalcularMedia0001.exe
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\bin\Debug\net6.0\CalcularMedia0001.deps.json
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\bin\Debug\net6.0\CalcularMedia0001.runtimeconfig.json
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\bin\Debug\net6.0\CalcularMedia0001.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\bin\Debug\net6.0\CalcularMedia0001.pdb
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\obj\Debug\net6.0\CalcularMedia0001.csproj.AssemblyReference.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\obj\Debug\net6.0\CalcularMedia0001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\obj\Debug\net6.0\CalcularMedia0001.AssemblyInfoInputs.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\obj\Debug\net6.0\CalcularMedia0001.AssemblyInfo.cs
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\obj\Debug\net6.0\CalcularMedia0001.csproj.CoreCompileInputs.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\obj\Debug\net6.0\CalcularMedia0001.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\obj\Debug\net6.0\refint\CalcularMedia0001.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\obj\Debug\net6.0\CalcularMedia0001.pdb
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\obj\Debug\net6.0\CalcularMedia0001.genruntimeconfig.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\CalcularMedia0001\obj\Debug\net6.0\ref\CalcularMedia0001.dll
