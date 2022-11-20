@@ -1,6 +1,12 @@
-﻿public class Aluno
+﻿
+public class Aluno
 {
-    public string Nome;
-    public int Idade;
-    public int Serie;
+    static void Main(string[] args)
+    {
+    }
+    {
+        public string Nome;
+        public int Idade;
+        public int Serie;
+    }
 }

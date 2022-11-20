@@ -1,0 +1,5 @@
+C:\Users\Nélia Simas\source\repos\C-Sharp\ClassAluno\obj\Debug\net6.0\ClassAluno.csproj.AssemblyReference.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\ClassAluno\obj\Debug\net6.0\ClassAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nélia Simas\source\repos\C-Sharp\ClassAluno\obj\Debug\net6.0\ClassAluno.AssemblyInfoInputs.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\ClassAluno\obj\Debug\net6.0\ClassAluno.AssemblyInfo.cs
+C:\Users\Nélia Simas\source\repos\C-Sharp\ClassAluno\obj\Debug\net6.0\ClassAluno.csproj.CoreCompileInputs.cache
