@@ -13,5 +13,5 @@ if (n1 < n2)
     Console.WriteLine("Resultado da soma: {0}", n2 + n3);
 } else
 {
-    Console.WriteLine("Nenhuma condição foi satisfeita!");
+    Console.WriteLine("A condição 2 não foi satisfeita!");
     }

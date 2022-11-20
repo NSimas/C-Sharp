@@ -1,0 +1,15 @@
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\bin\Debug\net6.0\IfElse0001.exe
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\bin\Debug\net6.0\IfElse0001.deps.json
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\bin\Debug\net6.0\IfElse0001.runtimeconfig.json
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\bin\Debug\net6.0\IfElse0001.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\bin\Debug\net6.0\IfElse0001.pdb
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\obj\Debug\net6.0\IfElse0001.csproj.AssemblyReference.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\obj\Debug\net6.0\IfElse0001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\obj\Debug\net6.0\IfElse0001.AssemblyInfoInputs.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\obj\Debug\net6.0\IfElse0001.AssemblyInfo.cs
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\obj\Debug\net6.0\IfElse0001.csproj.CoreCompileInputs.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\obj\Debug\net6.0\IfElse0001.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\obj\Debug\net6.0\refint\IfElse0001.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\obj\Debug\net6.0\IfElse0001.pdb
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\obj\Debug\net6.0\IfElse0001.genruntimeconfig.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\IfElse0001\obj\Debug\net6.0\ref\IfElse0001.dll
