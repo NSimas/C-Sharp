@@ -1,0 +1,15 @@
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\obj\Debug\net6.0\Forca.csproj.AssemblyReference.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\obj\Debug\net6.0\Forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\obj\Debug\net6.0\Forca.AssemblyInfoInputs.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\obj\Debug\net6.0\Forca.AssemblyInfo.cs
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\obj\Debug\net6.0\Forca.csproj.CoreCompileInputs.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\bin\Debug\net6.0\Forca.exe
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\bin\Debug\net6.0\Forca.deps.json
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\bin\Debug\net6.0\Forca.runtimeconfig.json
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\bin\Debug\net6.0\Forca.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\bin\Debug\net6.0\Forca.pdb
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\obj\Debug\net6.0\Forca.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\obj\Debug\net6.0\refint\Forca.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\obj\Debug\net6.0\Forca.pdb
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\obj\Debug\net6.0\Forca.genruntimeconfig.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\Forca\obj\Debug\net6.0\ref\Forca.dll

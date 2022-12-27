@@ -1,0 +1,15 @@
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\obj\Debug\net6.0\Exercicios01.csproj.AssemblyReference.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\obj\Debug\net6.0\Exercicios01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\obj\Debug\net6.0\Exercicios01.AssemblyInfoInputs.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\obj\Debug\net6.0\Exercicios01.AssemblyInfo.cs
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\obj\Debug\net6.0\Exercicios01.csproj.CoreCompileInputs.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\bin\Debug\net6.0\Exercicios01.exe
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\bin\Debug\net6.0\Exercicios01.deps.json
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\bin\Debug\net6.0\Exercicios01.runtimeconfig.json
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\bin\Debug\net6.0\Exercicios01.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\bin\Debug\net6.0\Exercicios01.pdb
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\obj\Debug\net6.0\Exercicios01.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\obj\Debug\net6.0\refint\Exercicios01.dll
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\obj\Debug\net6.0\Exercicios01.pdb
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\obj\Debug\net6.0\Exercicios01.genruntimeconfig.cache
+C:\Users\Nélia Simas\source\repos\C-Sharp\Exercicios01\obj\Debug\net6.0\ref\Exercicios01.dll
