@@ -5,10 +5,10 @@ namespace Caneta0002
 {
     public class Caneta
     {
-        private string _corTinta;
-        private string _corDoCorpo;
-        private string _marca;
-        private string _modelo;
+        public string _corTinta { get; set; }
+        public string _corDoCorpo { get; set; }
+        public string _marca { get; set; }
+        public string _modelo { get; set; }
 
         public Caneta(string corTinta, string corCorpo, string marca, string modelo)
         {
