@@ -1,0 +1,5 @@
+C:\Users\Nélia Simas\Source\Repos\NSimas\C-Sharp\Caneta0002\obj\Debug\net6.0\Caneta0002.csproj.AssemblyReference.cache
+C:\Users\Nélia Simas\Source\Repos\NSimas\C-Sharp\Caneta0002\obj\Debug\net6.0\Caneta0002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nélia Simas\Source\Repos\NSimas\C-Sharp\Caneta0002\obj\Debug\net6.0\Caneta0002.AssemblyInfoInputs.cache
+C:\Users\Nélia Simas\Source\Repos\NSimas\C-Sharp\Caneta0002\obj\Debug\net6.0\Caneta0002.AssemblyInfo.cs
+C:\Users\Nélia Simas\Source\Repos\NSimas\C-Sharp\Caneta0002\obj\Debug\net6.0\Caneta0002.csproj.CoreCompileInputs.cache
