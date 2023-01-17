@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Caneta0002
-build_property.ProjectDir = C:\Users\Nélia Simas\source\repos\NSimas\C-Sharp\Caneta0002\
+build_property.RootNamespace = CompararNúmeros
+build_property.ProjectDir = C:\Users\Nélia Simas\Source\Repos\NSimas\C-Sharp\CompararNúmeros\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nélia Simas\\Source\\Repos\\NSimas\\C-Sharp\\Caneta0002\\Caneta0002.csproj": {}
+    "C:\\Users\\Nélia Simas\\Source\\Repos\\NSimas\\C-Sharp\\CompararNúmeros\\CompararNúmeros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nélia Simas\\Source\\Repos\\NSimas\\C-Sharp\\Caneta0002\\Caneta0002.csproj": {
+    "C:\\Users\\Nélia Simas\\Source\\Repos\\NSimas\\C-Sharp\\CompararNúmeros\\CompararNúmeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nélia Simas\\Source\\Repos\\NSimas\\C-Sharp\\Caneta0002\\Caneta0002.csproj",
-        "projectName": "Caneta0002",
-        "projectPath": "C:\\Users\\Nélia Simas\\Source\\Repos\\NSimas\\C-Sharp\\Caneta0002\\Caneta0002.csproj",
+        "projectUniqueName": "C:\\Users\\Nélia Simas\\Source\\Repos\\NSimas\\C-Sharp\\CompararNúmeros\\CompararNúmeros.csproj",
+        "projectName": "CompararNúmeros",
+        "projectPath": "C:\\Users\\Nélia Simas\\Source\\Repos\\NSimas\\C-Sharp\\CompararNúmeros\\CompararNúmeros.csproj",
         "packagesPath": "C:\\Users\\Nélia Simas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nélia Simas\\Source\\Repos\\NSimas\\C-Sharp\\Caneta0002\\obj\\",
+        "outputPath": "C:\\Users\\Nélia Simas\\Source\\Repos\\NSimas\\C-Sharp\\CompararNúmeros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
