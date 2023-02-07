@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nélia Simas\\Desktop\\Pasta Nélia\\ADA\\ClassRevisaoPOO2\\Animal\\Animal.csproj": {}
+    "C:\\Users\\Nélia Simas\\Documents\\GitHub\\C-Sharp\\Animal\\Animal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nélia Simas\\Desktop\\Pasta Nélia\\ADA\\ClassRevisaoPOO2\\Animal\\Animal.csproj": {
+    "C:\\Users\\Nélia Simas\\Documents\\GitHub\\C-Sharp\\Animal\\Animal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nélia Simas\\Desktop\\Pasta Nélia\\ADA\\ClassRevisaoPOO2\\Animal\\Animal.csproj",
+        "projectUniqueName": "C:\\Users\\Nélia Simas\\Documents\\GitHub\\C-Sharp\\Animal\\Animal.csproj",
         "projectName": "Animal",
-        "projectPath": "C:\\Users\\Nélia Simas\\Desktop\\Pasta Nélia\\ADA\\ClassRevisaoPOO2\\Animal\\Animal.csproj",
+        "projectPath": "C:\\Users\\Nélia Simas\\Documents\\GitHub\\C-Sharp\\Animal\\Animal.csproj",
         "packagesPath": "C:\\Users\\Nélia Simas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nélia Simas\\Desktop\\Pasta Nélia\\ADA\\ClassRevisaoPOO2\\Animal\\obj\\",
+        "outputPath": "C:\\Users\\Nélia Simas\\Documents\\GitHub\\C-Sharp\\Animal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
