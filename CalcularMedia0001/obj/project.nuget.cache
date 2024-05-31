@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "cCBRLukE+cR5PSzik4GKyJGDFogkUNkx7784jokvXGLE26brJ239MGlxgNYectZVffRoVHnzWTcOWgk32vK6jw==",
+  "dgSpecHash": "DnE4KzgVsjJ1/FXo/UaZZYB6G6VSX1v9XMik0do66bwT0JkCTOxjxh0NB4i98PsYeA48u4NaazYecNsWOdFwfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nélia Simas\\source\\repos\\C-Sharp\\CalcularMedia0001\\CalcularMedia0001.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\nelia\\Source\\Repos\\C-Sharp\\CalcularMedia0001\\CalcularMedia0001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nelia\\.nuget\\packages\\xunit\\2.8.1\\xunit.2.8.1.nupkg.sha512",
+    "C:\\Users\\nelia\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\nelia\\.nuget\\packages\\xunit.analyzers\\1.14.0\\xunit.analyzers.1.14.0.nupkg.sha512",
+    "C:\\Users\\nelia\\.nuget\\packages\\xunit.assert\\2.8.1\\xunit.assert.2.8.1.nupkg.sha512",
+    "C:\\Users\\nelia\\.nuget\\packages\\xunit.core\\2.8.1\\xunit.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\nelia\\.nuget\\packages\\xunit.extensibility.core\\2.8.1\\xunit.extensibility.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\nelia\\.nuget\\packages\\xunit.extensibility.execution\\2.8.1\\xunit.extensibility.execution.2.8.1.nupkg.sha512",
+    "C:\\Users\\nelia\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.1\\xunit.runner.visualstudio.2.8.1.nupkg.sha512"
+  ],
   "logs": []
 }
